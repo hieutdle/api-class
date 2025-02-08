@@ -1,0 +1,2002 @@
+<!DOCTYPE html>
+
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<title>Gold, Fahrräder &amp; Zubehör in Berlin | kleinanzeigen.de</title>
+<link href="/favicon.ico" rel="icon" sizes="32x32"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon"/><link href="/manifest.webmanifest" rel="manifest"/>
+<meta content="width=device-width" name="viewport">
+
+
+
+
+
+
+<meta content="Kleinanzeigen: Gold, Fahrräder &amp; Zubehör - Jetzt in Berlin finden oder inserieren! - kleinanzeigen.de" name="description"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="ebayk://s-fahrraeder/berlin/gold/k0c217l3331?utm_source=SmartBanner&amp;utm_medium=web&amp;utm_campaign=SmartBanner" property="al:ios:url">
+<meta content="382596778" property="al:ios:app_store_id"/>
+<meta content="Kleinanzeigen" property="al:ios:app_name"/>
+<link href="https://www.kleinanzeigen.de/s-fahrraeder/berlin/gold/k0c217l3331" rel="canonical"/>
+<link href="/s-fahrraeder/berlin/seite:2/gold/k0c217l3331" rel="next"/>
+<link href="ios-app://382596778/ebayk/s-fahrraeder/berlin/gold/k0c217l3331" rel="alternate"/>
+<link href="android-app://com.ebay.kleinanzeigen/ebayk/s-fahrraeder/berlin/gold/k0c217l3331" rel="alternate"/>
+<meta content="54984820-aa3c-4d03-b60a-82afd5ad3316" name="_csrf"/>
+<meta content="X-CSRF-TOKEN" name="_csrf_header"/>
+<meta content="index, follow" name="robots"/>
+
+<link href="https://static.kleinanzeigen.de/static/xml/opensearch.xml" rel="search" title="Kleinanzeigen" type="application/opensearchdescription+xml"/>
+<meta content="8866d17f454742906fd2881a9bc207a0" name="p:domain_verify"/>
+<meta content="129026183788759" property="fb:app_id"/>
+<meta content="118074381563675" property="fb:page_id"/>
+<meta content="Kleinanzeigen" property="og:site_name"/>
+<meta content="Germany" property="og:country-name"/>
+<meta content="https://static.kleinanzeigen.de/static/img/common/logo/logo-kleinanzeigen-og-vertical.png" property="og:image"/>
+<meta content="website" property="og:type"/>
+<meta content="Kleinanzeigen: Gold, Fahrräder &amp; Zubehör - Jetzt in Berlin finden oder inserieren! - kleinanzeigen.de" property="og:description"/>
+<meta content="Fahrräder &amp; Zubehör | kleinanzeigen.de" property="og:title"/>
+<meta content="https://www.kleinanzeigen.de/s-fahrraeder/c217" property="og:url"/>
+<meta content="FB821594C9F8B6D5BA9D0847E8838D8A" name="msvalidate.01"/>
+<meta content="mKHxIfCqo8NfW85vQla0XDNT2FPIEt85-o_DsUrrMpA" name="google-site-verification"/>
+<meta content="sites-4137444386846037" name="google-adsense-account"/>
+<meta content="9bi0liwrnhj2yqnr230z9any02w2fk" name="facebook-domain-verification">
+<link href="https://static.kleinanzeigen.de/static/css/all.183hqn736wxav.css" rel="stylesheet" type="text/css"/>
+<link href="https://www.kleinanzeigen.de/liberty/liberty-js-cp/liberty.css" rel="stylesheet" type="text/css"/>
+<!-- required by @kleinanzeigen/google-analytics -->
+
+<!-- required by @kleinanzeigen/google-analytics -->
+
+
+
+
+<!-- Begin RTBHouse Tracking -->
+
+<!-- End RTBHouse Tracking -->
+<!-- Meta Pixel Code -->
+
+<!-- End Meta Pixel Code -->
+
+<!-- Hotjar Tracking Code for kleinanzeigen -->
+
+
+
+<!-- ATS.js Script -->
+
+
+<!-- required by liberty -->
+
+
+<!-- required by liberty -->
+
+
+<!-- required by liberty -->
+
+
+<!-- required by liberty -->
+
+
+<!-- required by liberty -->
+<!-- apstag queue is initialized by Liberty.js because it's not provided by Amazon -->
+
+
+
+
+
+
+
+</meta></meta></meta></head>
+<body class="" id="srchrslt">
+<!-- Rebranding new header -> Florian Semrau -->
+<header id="site-header">
+<section class="l-page-wrapper" id="site-header-top">
+<div id="site-logo">
+<div class="logo">
+<a href="/">
+<img alt="" height="40" src="https://static.kleinanzeigen.de/static/img/common/logo/logo-kleinanzeigen-horizontal.1f2pao1sh7vgo.svg"/></a>
+</div>
+</div>
+<section class="is-centered-button" id="site-signin">
+<div class="login-overlay is-hidden">
+<div class="login-overlay--content">
+<span class="headline-big">Hallo!</span>
+<p>Willkommen bei Kleinanzeigen. Melde dich hier an,
+                                        oder erstelle ein neues Konto, damit du:</p>
+<a class="j-overlay-close overlay-close" title="Close (Esc)" type="button"></a>
+<ul class="list">
+<li>
+<i class="icon icon-checkmark-green"></i>
+<span>Nachrichten senden und empfangen kannst</span>
+</li>
+<li>
+<i class="icon icon-checkmark-green"></i>
+<span>Eigene Anzeigen aufgeben kannst</span>
+</li>
+<li>
+<i class="icon icon-checkmark-green"></i>
+<span>Für dich interessante Anzeigen siehst</span>
+</li>
+</ul>
+<ul class="login-overlay-buttons">
+<li><a class="button-secondary j-overlay-register" data-gaevent="ResultsSearch,UserRegistrationBegin" href="/m-benutzer-anmeldung.html">Registrieren</a>
+</li>
+<li><a class="button j-overlay-login" data-gaevent="ResultsSearch,LoginBegin" href="/m-einloggen.html?targetUrl=%2Fs-fahrraeder%2Fberlin%2Fgold%2Fk0c217l3331">Einloggen</a>
+</li>
+</ul>
+</div>
+</div>
+<div>
+<ul class="linklist flex-row-vertical-center">
+<li><a class="button-secondary button-small" data-gaevent="ResultsSearch,UserRegistrationBegin" href="/m-benutzer-anmeldung.html">Registrieren</a>
+</li>
+<li>oder</li>
+<li>
+<a class="button button-small" data-gaevent="ResultsSearch,LoginBegin" href="/m-einloggen.html?targetUrl=%2Fs-fahrraeder%2Fberlin%2Fgold%2Fk0c217l3331">
+<i class="button-icon button-icon-medium icon-my-interactive"></i><span>Einloggen</span></a>
+</li>
+</ul>
+</div>
+</section>
+</section>
+<section class="ka-site-header" id="site-searchbar">
+<div class="ka-site-header--inner">
+<form action="/s-suchanfrage.html" class="ka-site-header--inner--form" id="site-search-form" method="get"><div class="ka-site-header--what">
+<i class="icon icon-magnifier-nonessential ka-site-header--icon"></i>
+<!-- SuggestionWidget  start -->
+<div class="suggestionbox" data-ajaxurl="" data-algolia-api-key="a29d2bf6a595867b238e885289dddadf" data-algolia-app-id="8YS7J0Y0H2" data-algolia-index="ebayk_prod_suggest" data-suggest="" id="site-search-query-wrp"> <input class="splitfield-input ka-site-header--what--input ka-site-header--input-placeholder is-not-clearable" id="site-search-query" name="keywords" placeholder="Was suchst du?" tabindex="1" title="" type="text" value="gold"/>
+</div>
+<div class="ka-site-header--divider"></div>
+<div class="multiselectbox ka-site-header--inner--form--item ka-site-header--inner--form--multiselectbox" data-ajaxurl="/s-kategorie-baum.html" id="site-search-ctgry">
+<input class="splitfield-dropdown splitfield-dropdown-nonessential splitfield-input ka-site-header--inner--form" id="srch-ctgry-inpt" readonly="readonly" tabindex="2" type="text" value="Fahrräder &amp; Zubehör "/>
+<input id="search-category-value" name="categoryId" type="hidden" value="217"/>
+<ul class="dropdown-list multiselectbox-list ka-site-header--inner--form--multiselectbox--list" style="top: 30px;">
+<li class="multiselectbox-option"><a class="multiselectbox-link" data-val="0">Alle Kategorien</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="ka-site-header--divider"></div>
+<div class="ka-site-header--where" id="site-search-where">
+<i class="icon icon-pin-nonessential ka-site-header--icon"></i>
+<!-- SuggestionWidget  start -->
+<div class="suggestionbox" data-ajaxurl="/s-ort-empfehlungen.json" data-algolia-api-key="" data-algolia-app-id="" data-algolia-index="" data-suggest="" id="site-search-area-wrp"> <input class="splitfield-input ka-site-header--input-placeholder is-not-clearable" id="site-search-area" name="locationStr" placeholder="PLZ oder Ort" tabindex="3" title="" type="text" value="Berlin"/>
+<input class="j-suggstnbx-key" name="locationId" type="hidden" value="3331"/>
+</div>
+<div class="ka-site-header--divider"></div>
+<div class="ka-site-header--inner--form--item" id="site-search-distance">
+<div class="selectbox">
+<input autocomplete="off" class="splitfield-input splitfield-dropdown splitfield-dropdown-nonessential ka-site-header--inner--form--multiselectbox ka-site-header--distance--input" id="site-search-distance-inpt" readonly="readonly" tabindex="4" type="text" value=""/>
+<input id="site-search-distance-value" name="radius" type="hidden" value=""/>
+<ul class="dropdown-list selectbox-list ka-site-header--inner--form--multiselectbox--list" id="site-search-distance-list">
+<li class="selectbox-option is-selected" data-value="0">
+    Ganzer Ort</li>
+<li class="selectbox-option" data-value="5">
+    + 5 km</li>
+<li class="selectbox-option" data-value="10">
+    + 10 km</li>
+<li class="selectbox-option" data-value="20">
+    + 20 km</li>
+<li class="selectbox-option" data-value="30">
+    + 30 km</li>
+<li class="selectbox-option" data-value="50">
+    + 50 km</li>
+<li class="selectbox-option" data-value="100">
+    + 100 km</li>
+<li class="selectbox-option" data-value="150">
+    + 150 km</li>
+<li class="selectbox-option" data-value="200">
+    + 200 km</li>
+</ul>
+</div>
+</div>
+</div>
+<button class="button button-overgreen button-small" id="site-search-submit" type="submit">
+<span>Finden</span>
+</button>
+<input id="search-sorting-field" name="sortingField" type="hidden" value="SORTING_DATE"/>
+<input id="search-adType-field" name="adType" type="hidden" value=""/>
+<input id="search-posterType-field" name="posterType" type="hidden" value=""/>
+<input id="search-pageNum" name="pageNum" type="hidden" value="1"/>
+<input id="search-action" name="action" type="hidden" value="find"/>
+<input name="maxPrice" type="hidden" value=""/>
+<input name="minPrice" type="hidden" value=""/>
+<input name="buyNowEnabled" type="hidden" value="false"/>
+<input name="shippingCarrier" type="hidden" value=""/>
+</form><nav aria-label="Hauptnavigation" class="ka-site-mainnav" id="site-mainnav">
+<ul class="ka-site-mainnav--list">
+<li class="ka-site-mainnav--item">
+<a class="ka-site-mainnav--item--link" data-gaevent="ResultsSearch,PostAdBegin" href="/p-anzeige-aufgeben-schritt2.html" id="site-mainnav-postad">
+<span class="ka-site-mainnav--item--icon--post-ad"></span>
+<span class="ka-site-mainnav--item--text">Inserieren</span>
+</a>
+</li>
+<li class="ka-site-mainnav--item" id="site-mainnav-my">
+<a aria-haspopup="true" class="ka-site-mainnav--item--link" href="/m-meine-anzeigen.html" id="site-mainnav-my-link">
+<span class="ka-site-mainnav--item--icon--my-link"></span>
+<span class="ka-site-mainnav--item--text">Meins</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</section>
+<section class="is-hidden" id="site-header-sub">
+<nav aria-label="Nutzermenü" class="mainnav-sub" id="site-subnav">
+<ul>
+<li class="mainnav-sub-item">
+<a class="mainnav-sub-link" href="/m-nachrichten.html" id="site-subnav-msgbox">
+                                Nachrichten</a>
+</li>
+<li class="mainnav-sub-item">
+<a class="mainnav-sub-link" href="/m-meine-anzeigen.html" id="site-subnav-myads">Anzeigen</a>
+</li>
+<li class="mainnav-sub-item">
+<a class="mainnav-sub-link" href="/m-einstellungen.html" id="site-subnav-settings">
+                                Einstellungen</a>
+</li>
+</ul>
+<hr/>
+<div class="mainnav-sub-header">Favoriten</div>
+<ul>
+<li class="mainnav-sub-item">
+<a class="mainnav-sub-link" href="/m-merkliste.html" id="site-subnav-watchlist">
+                                Merkliste</a>
+</li>
+<li class="mainnav-sub-item">
+<a class="mainnav-sub-link" href="/m-meine-nutzer.html">
+                                Nutzer</a>
+</li>
+<li class="mainnav-sub-item">
+<a class="mainnav-sub-link" href="/m-meine-suchen.html" id="site-subnav-sase">
+                                Suchaufträge</a>
+</li>
+</ul>
+</nav>
+</section>
+</header>
+<noscript>
+<div class="l-page-wrapper l-container-row">
+<div class="outcomemessage-error">
+                Um diese Seite nutzen zu können, müssen Sie in Ihren Browser-Einstellungen
+                JavaScript aktivieren.
+            </div>
+</div>
+</noscript>
+<div class="site-base">
+<div class="site-base--left-banner">
+<div class="site-base--left-banner--full">
+<div class="sticky-advertisement" id="banner-skyscraper-left">
+<div class="l-container" data-liberty-position-name="srps-sky-atf-left"></div>
+</div>
+</div>
+</div>
+<div class="site-base--content">
+<div class="l-page-wrapper l-container-row" id="site-content">
+<div class="outcomebox-error" id="browser-unsupported-warning" style="display: none">
+<header><div>Bitte aktualisiere deinen Browser</div></header>
+<div class="outcomebox--body">
+<div><img alt="" height="79" src="https://static.kleinanzeigen.de/static/img/common/illustrations/connection-issue.vfwgydoqmp1t.svg" width="79"/></div>
+<p>Viele Deals wurden auf Kleinanzeigen gemacht, seit dein Browser das Licht der Welt erblickt hat. Um weiterhin alle Funktionen einwandfrei nutzen zu können, solltest du ihn aktualisieren.
+            Wir empfehlen <a href="https://www.google.com/intl/de/chrome/" rel="nofollow" target="_blank">Google Chrome</a>, <a href="https://www.mozilla.org/de/firefox/new/" rel="nofollow" target="_blank">Mozilla Firefox</a>,
+            <a href="https://www.microsoft.com/de-de/edge" rel="nofollow" target="_blank">Microsoft Edge</a> oder <a href="https://support.apple.com/de-de/HT204416" rel="nofollow" target="_blank">Safari</a>, falls du macOS benutzt.
+        </p>
+</div>
+</div>
+
+<!-- required by ebayk-criteo-tracking -->
+
+
+<main>
+
+
+<div id="promotion-interstitial"></div>
+
+<div class="l-container-row l-splitpage-flex">
+<div class="breadcrump" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a class="breadcrump-link" href="/stadt/berlin/" itemprop="url" title="Kleinanzeigen Berlin">
+<span itemprop="title">Kleinanzeigen Berlin</span>
+</a>
+<a class="breadcrump-link" href="/s-auto-rad-boot/berlin/gold/k0c210l3331" itemprop="url"><span itemprop="title">Auto, Rad &amp; Boot</span></a>
+<h1><span class="breadcrump-leaf">
+                Fahrräder &amp; Zubehör in Berlin</span>
+<span class="breadcrump-summary">1 - 25 von 71 Ergebnissen für „gold“ in Berlin</span>
+</h1>
+</div>
+<div class="srchresult-sorting">
+<span id="j-sorting-info-button">
+<i class="icon icon-small icon-info-gray"></i>
+</span>
+<span>Sortieren nach: </span>
+<div class="textdropdown" id="sortingField-selector">
+<div class="textdropdown-input" data-text="Neueste zuerst" id="sortingField-selector-inpt">Neueste zuerst</div>
+<input id="sortingField-selector-value" name="sortingField" type="hidden" value=""/>
+<ul class="textdropdown-options" id="sortingField-selector-list">
+<li class="selectbox-option is-selected" data-value="SORTING_DATE">
+    Neueste zuerst</li>
+<li class="selectbox-option" data-value="PRICE_AMOUNT">
+    Günstigste zuerst</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="l-splitpage-flex">
+<div class="l-splitpage-navigation adslot-container">
+<div class="l-container-row">
+<form action="/s-suchanfrage.html" id="browsebox-searchform" method="get"><input id="browsebox-field-locationid" name="locationId" type="hidden" value="3331"/><input id="browsebox-field-categoryid" name="categoryId" type="hidden" value="217"/><input id="browsebox-field-sorting" name="sortingField" type="hidden" value="SORTING_DATE"/><input id="browsebox-field-adtype" name="adType" type="hidden" value=""/><input id="browsebox-field-keywords" name="keywords" type="hidden" value="gold"/><input id="browsebox-field-postertype" name="posterType" type="hidden" value=""/><input name="radius" type="hidden" value="0.0"/>
+<input name="buyNowEnabled" type="hidden" value="false"/>
+<input name="shippingCarrier" type="hidden" value=""/>
+<input name="shipping" type="hidden" value=""/>
+<div class="browsebox contentbox surface">
+<section>
+<header>
+<h2 class="sectionheadline">Kategorien</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="[]" data-overlayheadline="">
+<li>
+<a class="text-link-subdued" href="/s-berlin/gold/k0l3331">Alle Kategorien</a>
+<ul class="browsebox-itemlist treelist" data-hiddenitems="[]" data-overlayheadline="Alle Kategorien">
+<li>
+<a class="text-link-subdued" href="/s-auto-rad-boot/berlin/gold/k0c210l3331">Auto, Rad &amp; Boot</a>
+<ul class="browsebox-itemlist treelist" data-hiddenitems="[]" data-overlayheadline="Auto, Rad &amp; Boot">
+<li>
+<div class="browsebox-selected-itembox">
+<div>
+                Fahrräder &amp; Zubehör<span class="browsebox-facet text-light"> (71)</span></div>
+<a class="text-link-subdued" href="/s-auto-rad-boot/berlin/gold/k0c210l3331"><i class="icon-close"></i></a>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+<section class="browsebox-attribute">
+<header>
+<h2 class="sectionheadline">Art</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="Art">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/damen/berlin/gold/k0c217l3331+fahrraeder.art_s:damen">Damen</a>
+                     <span class="browsebox-facet text-light">(4)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/herren/berlin/gold/k0c217l3331+fahrraeder.art_s:herren">Herren</a>
+                     <span class="browsebox-facet text-light">(21)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/kinder/berlin/gold/k0c217l3331+fahrraeder.art_s:kinder">Kinder</a>
+                     <span class="browsebox-facet text-light">(6)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/zubehoer/berlin/gold/k0c217l3331+fahrraeder.art_s:zubehoer">Zubehör</a>
+                     <span class="browsebox-facet text-light">(31)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/weiteres/berlin/gold/k0c217l3331+fahrraeder.art_s:weiteres">Weitere Fahrräder &amp; Zubehör</a>
+                     <span class="browsebox-facet text-light">(9)</span></li>
+</ul>
+</div>
+</section>
+<section class="browsebox-attribute">
+<header>
+<h2 class="sectionheadline">Versand</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="Versand">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.versand_s:ja">Versand möglich</a>
+                     <span class="browsebox-facet text-light">(44)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.versand_s:nein">Nur Abholung</a>
+                     <span class="browsebox-facet text-light">(23)</span></li>
+</ul>
+</div>
+</section>
+<section class="browsebox-attribute">
+<header>
+<h2 class="sectionheadline">Typ</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="Typ">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:bmx">BMX-Räder</a>
+                     <span class="browsebox-facet text-light">(2)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:city">Cityräder</a>
+                     <span class="browsebox-facet text-light">(9)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:cross">Cross- &amp; Trekkingräder</a>
+                     <span class="browsebox-facet text-light">(3)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:cruise">Cruiser</a>
+                     <span class="browsebox-facet text-light">(2)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:ebike">Elektrofahrräder</a>
+                     <span class="browsebox-facet text-light">(2)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:klapprad">Klappräder</a>
+                     <span class="browsebox-facet text-light">(2)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:mountainbike">Mountainbikes</a>
+                     <span class="browsebox-facet text-light">(9)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:rennrad">Rennräder</a>
+                     <span class="browsebox-facet text-light">(28)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.type_s:sonstiges">Andere Fahrräder</a>
+                     <span class="browsebox-facet text-light">(13)</span></li>
+</ul>
+</div>
+</section>
+<section class="browsebox-attribute">
+<header>
+<h2 class="sectionheadline">Zustand</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="Zustand">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.condition_s:new">Neu</a>
+                     <span class="browsebox-facet text-light">(17)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.condition_s:like_new">Sehr Gut</a>
+                     <span class="browsebox-facet text-light">(11)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/gold/k0c217l3331+fahrraeder.condition_s:good">Gut</a>
+                     <span class="browsebox-facet text-light">(27)</span></li>
+</ul>
+</div>
+</section>
+<section>
+<header>
+<h2 class="sectionheadline">Preis</h2>
+</header>
+<div class="browsebox-section-body">
+<div class="browsebox-section-form">
+<fieldset class="browsebox-rangefields">
+<input class="formcontrol textfield formcontrol-extended" id="srchrslt-brwse-price-min" name="minPrice" placeholder="Von" type="text" value=""/> - <input class="formcontrol textfield formcontrol-extended" id="srchrslt-brwse-price-max" name="maxPrice" placeholder="Bis" type="text" value=""/></fieldset>
+<button class="button-iconized button" type="submit">
+<i class="button-icon icon-play-interactive"></i>
+</button>
+</div>
+</div>
+</section>
+<section>
+<header>
+<h2 class="sectionheadline">Anbieter</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/anbieter:privat/gold/k0c217l3331">Privat</a>
+                     <span class="browsebox-facet text-light">(60)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/anbieter:gewerblich/gold/k0c217l3331">Gewerblich</a>
+                     <span class="browsebox-facet text-light">(11)</span></li>
+</ul>
+</div>
+</section>
+<section>
+<header>
+<h2 class="sectionheadline">Direkt kaufen</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/direktkaufen:aktiv/gold/k0c217l3331">Aktiv</a>
+                     <span class="browsebox-facet text-light">(14)</span></li>
+</ul>
+</div>
+</section>
+<section>
+<header>
+<h2 class="sectionheadline">Paketdienst</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/paketdienst:dhl/gold/k0c217l3331">DHL</a>
+                     <span class="browsebox-facet text-light">(28)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/berlin/paketdienst:hermes/gold/k0c217l3331">Hermes</a>
+                     <span class="browsebox-facet text-light">(23)</span></li>
+</ul>
+</div>
+</section>
+<section>
+<header>
+<h2 class="sectionheadline">Ort</h2>
+</header>
+<div class="browsebox-section-body">
+<ul class="treelist browsebox-itemlist is-root" data-hiddenitems="" data-overlayheadline="Ort">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/gold/k0c217">Deutschland</a>
+<ul class="a-indented browsebox-itemlist treelist" data-hiddenitems="[]" data-overlayheadline="Deutschland">
+<li>
+<div class="browsebox-selected-itembox">
+<div>
+                Berlin<span class="browsebox-facet text-light"> (71)</span></div>
+<a class="text-link-subdued" href="/s-fahrraeder/gold/k0c217"><i class="icon-close"></i></a>
+</div>
+<ul class="browsebox-itemlist treelist" data-hiddenitems="[]" data-overlayheadline="Berlin">
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/friedrichshain-kreuzberg/gold/k0c217l26918">Friedrichshain-Kreuzberg</a>
+                     <span class="browsebox-facet text-light">(14)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/pankow/gold/k0c217l3464">Pankow</a>
+                     <span class="browsebox-facet text-light">(8)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/mitte/gold/k0c217l3518">Mitte</a>
+                     <span class="browsebox-facet text-light">(8)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/charlottenburg/gold/k0c217l3332">Charlottenburg</a>
+                     <span class="browsebox-facet text-light">(6)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/neukoelln/gold/k0c217l3386">Neukölln</a>
+                     <span class="browsebox-facet text-light">(5)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/koepenick/gold/k0c217l3360">Köpenick</a>
+                     <span class="browsebox-facet text-light">(4)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/schoeneberg/gold/k0c217l3443">Schöneberg</a>
+                     <span class="browsebox-facet text-light">(4)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/spandau/gold/k0c217l3430">Spandau</a>
+                     <span class="browsebox-facet text-light">(3)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/treptow/gold/k0c217l3479">Treptow</a>
+                     <span class="browsebox-facet text-light">(3)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/friedenau/gold/k0c217l17083">Friedenau</a>
+                     <span class="browsebox-facet text-light">(3)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/tempelhof/gold/k0c217l3402">Tempelhof</a>
+                     <span class="browsebox-facet text-light">(2)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/reinickendorf/gold/k0c217l3450">Reinickendorf</a>
+                     <span class="browsebox-facet text-light">(2)</span></li>
+<li>
+<a class="text-link-subdued" href="/s-fahrraeder/lichtenberg/gold/k0c217l3543">Lichtenberg</a>
+                     <span class="browsebox-facet text-light">(2)</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</section>
+
+</div>
+</form></div>
+<div class="sticky-advertisement" id="srp-skyscraper-btf">
+</div>
+</div>
+<div class="l-splitpage-content position-relative" id="srchrslt-content">
+<div class="srp-header a-padded l-container-row contentbox surface">
+<div>
+<div class="l-container-row contentbox j-follow-search">
+<header class="splitheader-centered">
+<div class="splitheader--title icon-headline-medium box-iconbox">
+<div><i class="icon icon-saved-searches-24-green"></i></div>
+<div>Erstelle einen Suchauftrag und lasse dich benachrichtigen,<br/>wenn neue Anzeigen eingestellt werden.</div>
+</div>
+<div class="splitheader--addon">
+<a class="button icon-button j-unsubscribe-link is-hidden" href="/m-suche-loeschen.json" id="j-srchrslt-header-savedsearch-unsubscribe" rel="nofollow">
+<i class="icon-saved-search-subscribed button-icon icon-heart-magnifier-closed-interactive"></i>
+<span>Suchauftrag gespeichert</span>
+</a>
+<a class="button icon-button j-subscribe-link" data-gaevent="ResultsSearch,SaveSearchBegin" href="/m-suche-abonnieren.json" id="j-srchrslt-header-savedsearch-subscribe" rel="nofollow">
+<i class="icon-saved-search-not-subscribed button-icon icon-heart-magnifier-open-interactive"></i>
+<span>Suchauftrag speichern</span></a>
+</div>
+</header>
+</div>
+</div>
+</div>
+<div class="j-liberty-wrapper" id="brws_banner-supersize">
+<div class="contentbox-unpadded l-container-row" data-liberty-parent-selector=".j-liberty-wrapper" data-liberty-position-name="srps-top-banner"></div>
+</div>
+<div class="l-container-row contentbox-unpadded no-bg highlighttest">
+<div class="position-relative">
+<ul class="itemlist ad-list it3" id="srchrslt-adtable">
+<li class="ad-listitem">
+<article class="aditem" data-adid="2996201669" data-href="/s-anzeige/kinder-laufrad-cruzee-in-gold/2996201669-217-3351">
+<div class="aditem-image">
+
+<a href="/s-anzeige/kinder-laufrad-cruzee-in-gold/2996201669-217-3351">
+<div class="imagebox srpimagebox">
+<img alt="Kinder Laufrad Cruzee in Gold Friedrichshain-Kreuzberg - Friedrichshain Vorschau" data-imgstyle="min-width: 100%;
+                                                    min-height: 178%;
+                                                    max-height: none; max-width: none;
+                                                    transform: translate(0%, 0%);" fetchpriority="high" loading="eager" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/393ab7aa-d669-468f-b07e-304e34e8903e?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/393ab7aa-d669-468f-b07e-304e34e8903e?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    5</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10249 Friedrichshain</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        Gestern, 10:04</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/kinder-laufrad-cruzee-in-gold/2996201669-217-3351">Kinder Laufrad Cruzee in Gold</a>
+</h2>
+<p class="aditem-main--middle--description">Abzuholen in Berlin Friedrichshain
+
+Gut erhaltenes Kinder Laufrad der Marke Cruzee in der Farbe...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            45 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2995732934" data-href="/s-anzeige/race-face-turbine-lenker-gold-35mm-760mm-mtb/2995732934-217-3388">
+<div class="aditem-image">
+
+<a href="/s-anzeige/race-face-turbine-lenker-gold-35mm-760mm-mtb/2995732934-217-3388">
+<div class="imagebox srpimagebox">
+<img alt="Race Face Turbine Lenker Gold 35mm 760mm MTB Berlin - Neukölln Vorschau" fetchpriority="high" loading="eager" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b296c5-272b-435b-a169-f4286c5194b1?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b296c5-272b-435b-a169-f4286c5194b1?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    6</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 12353 Neukölln</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        05.02.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/race-face-turbine-lenker-gold-35mm-760mm-mtb/2995732934-217-3388">Race Face Turbine Lenker Gold 35mm 760mm MTB</a>
+</h2>
+<p class="aditem-main--middle--description">Gebe einen wenig gefahrenen Lenker aus der Turbine Serie ab. Hat mal neu 150euro gekostet und ist...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            80 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2915759526" data-href="/s-anzeige/surly-midnight-special-rh-54-shimano-grx-800-1x11-s-fools-gold/2915759526-217-3352">
+<div class="aditem-image">
+
+<a href="/s-anzeige/surly-midnight-special-rh-54-shimano-grx-800-1x11-s-fools-gold/2915759526-217-3352">
+<div class="imagebox srpimagebox">
+<img alt="Surly Midnight Special, RH 54, Shimano GRX 800 1x11-s, fools gold Friedrichshain-Kreuzberg - Friedrichshain Vorschau" fetchpriority="high" loading="eager" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e9d6353-e3c9-43df-84dd-335d8d8ddaec?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e9d6353-e3c9-43df-84dd-335d8d8ddaec?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10245 Friedrichshain</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        05.02.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/surly-midnight-special-rh-54-shimano-grx-800-1x11-s-fools-gold/2915759526-217-3352">Surly Midnight Special, RH 54, Shimano GRX 800 1x11-s, fools gold</a>
+</h2>
+<p class="aditem-main--middle--description">Surly Midnight Special - du willt ein Rad, das immer, wirklich immer, das macht was du willst? Es...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            2.599 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+<div class="text-module-oneline">
+<a class="j-action j-dont-follow-vip no-decoration" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2915759526" href="/pro/Radladen" title="Zum Shop Radladen.">
+<div class="badge-hint-pro-small-srp">PRO</div>
+</a>
+<a class="j-action j-dont-follow-vip" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2915759526" href="/pro/Radladen" title="Zum Shop Radladen.">
+<span>Radladen.</span>
+</a>
+</div>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2214840766" data-href="/s-anzeige/winora-chica-kinderrad-20-zoll-pink-gold-modell-2022/2214840766-217-3352">
+<div class="aditem-image">
+
+<a href="/s-anzeige/winora-chica-kinderrad-20-zoll-pink-gold-modell-2022/2214840766-217-3352">
+<div class="imagebox srpimagebox">
+<img alt="Winora Chica Kinderrad, 20 Zoll, pink/gold, Modell 2022 Friedrichshain-Kreuzberg - Friedrichshain Vorschau" fetchpriority="high" loading="eager" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5de5e480-6786-4c1d-8140-e11bb3335351?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5de5e480-6786-4c1d-8140-e11bb3335351?rule=$_35.AUTO"/>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10245 Friedrichshain</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        04.02.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/winora-chica-kinderrad-20-zoll-pink-gold-modell-2022/2214840766-217-3352">Winora Chica Kinderrad, 20 Zoll, pink/gold, Modell 2022</a>
+</h2>
+<p class="aditem-main--middle--description">Winora Chica 20 Zoll
+
+Mit dem aktuellen Chica 20 hat Winora ein superleichtes Kinderrad auf den...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            399 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+<div class="text-module-oneline">
+<a class="j-action j-dont-follow-vip no-decoration" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2214840766" href="/pro/Radladen" title="Zum Shop Radladen.">
+<div class="badge-hint-pro-small-srp">PRO</div>
+</a>
+<a class="j-action j-dont-follow-vip" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2214840766" href="/pro/Radladen" title="Zum Shop Radladen.">
+<span>Radladen.</span>
+</a>
+</div>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2993849759" data-href="/s-anzeige/pegasus-26-zoll-damenrad-7-gang-nabenschaltung-gold/2993849759-217-9666">
+<div class="aditem-image">
+
+<a href="/s-anzeige/pegasus-26-zoll-damenrad-7-gang-nabenschaltung-gold/2993849759-217-9666">
+<div class="imagebox srpimagebox">
+<img alt="Pegasus 26 Zoll Damenrad – 7-Gang Nabenschaltung – Gold Mitte - Wedding Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/8920e9b7-aa85-456c-bcb1-b1560b25e029?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/8920e9b7-aa85-456c-bcb1-b1560b25e029?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 13359 Wedding</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        03.02.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/pegasus-26-zoll-damenrad-7-gang-nabenschaltung-gold/2993849759-217-9666" name="2993849759">Pegasus 26 Zoll Damenrad – 7-Gang Nabenschaltung – Gold</a>
+</h2>
+<p class="aditem-main--middle--description">Pegasus 26 Zoll Damenrad – 7-Gang Nabenschaltung – Gold – Top Zustand
+
+Zum Verkauf steht ein...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            295 € VB</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p>
+</p>
+<div class="text-module-oneline">
+<a class="j-action j-dont-follow-vip no-decoration" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2993849759" href="/pro/fahrradladen--service" title="Zum Shop Fahrradladen &amp; Service">
+<div class="badge-hint-pro-small-srp">PRO</div>
+</a>
+<a class="j-action j-dont-follow-vip" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2993849759" href="/pro/fahrradladen--service" title="Zum Shop Fahrradladen &amp; Service">
+<span>Fahrradladen &amp; Service</span>
+</a>
+</div>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2993172261" data-href="/s-anzeige/motobecane-rennrad-fahrrad-gold-28-zoll-rh-59cm/2993172261-217-3395">
+<div class="aditem-image">
+
+<a href="/s-anzeige/motobecane-rennrad-fahrrad-gold-28-zoll-rh-59cm/2993172261-217-3395">
+<div class="imagebox srpimagebox">
+<img alt="Motobecane Rennrad Fahrrad Gold 28 Zoll / RH 59cm Berlin - Neukölln Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81d5ea22-b787-48ec-8767-28143cd63dc9?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81d5ea22-b787-48ec-8767-28143cd63dc9?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    6</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 12047 Neukölln</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        02.02.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/motobecane-rennrad-fahrrad-gold-28-zoll-rh-59cm/2993172261-217-3395" name="2993172261">Motobecane Rennrad Fahrrad Gold 28 Zoll / RH 59cm</a>
+</h2>
+<p class="aditem-main--middle--description">- 10 Gang
+- Rahmenhöhe 59cm
+- Bremsen und Schaltung einwandfrei
+- Mit Kaufvertrag</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            250 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2990911107" data-href="/s-anzeige/gazelle-halbrenner-gold-rh61-handschaltung/2990911107-217-3498">
+<div class="aditem-image">
+
+<a href="/s-anzeige/gazelle-halbrenner-gold-rh61-handschaltung/2990911107-217-3498">
+<div class="imagebox srpimagebox">
+<img alt="Gazelle Halbrenner Gold RH61 Handschaltung Mitte - Tiergarten Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/0287a868-5ae7-41cc-8634-f05dc798c7d5?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/0287a868-5ae7-41cc-8634-f05dc798c7d5?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    14</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10785 Tiergarten</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        31.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/gazelle-halbrenner-gold-rh61-handschaltung/2990911107-217-3498" name="2990911107">Gazelle Halbrenner Gold RH61 Handschaltung</a>
+</h2>
+<p class="aditem-main--middle--description">Gazelle Halbrenner RH61 mit Moustache Lenker
+Entspannte Rahmengeometrie
+
+Stahlrahmen gold
+Brooks...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            300 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2989050400" data-href="/s-anzeige/dia-compe-dc-135-retro-bremshebel-weinmann-22-2-23-8mm-gold-neu/2989050400-217-3490">
+<div class="aditem-image">
+
+<a href="/s-anzeige/dia-compe-dc-135-retro-bremshebel-weinmann-22-2-23-8mm-gold-neu/2989050400-217-3490">
+<div class="imagebox srpimagebox">
+<img alt="DIA COMPE DC 135 Retro Bremshebel Weinmann 22,2 / 23,8mm Gold NEU Pankow - Prenzlauer Berg Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a09a3f0b-3a17-4ede-8969-8a26f5506844?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a09a3f0b-3a17-4ede-8969-8a26f5506844?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    2</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10439 Prenzlauer Berg</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        29.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/dia-compe-dc-135-retro-bremshebel-weinmann-22-2-23-8mm-gold-neu/2989050400-217-3490" name="2989050400">DIA COMPE DC 135 Retro Bremshebel Weinmann 22,2 / 23,8mm Gold NEU</a>
+</h2>
+<p class="aditem-main--middle--description">DIA COMPE DC 135 Retro Bremshebel Weinmann 22,2 / 23,8mm Gold NEU
+
+Nagelneue Dia Compe...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            25 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<div class="align-center liberty-hide-unfilled" data-liberty-position-name="srps-result-list-8"></div>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2987174923" data-href="/s-anzeige/shimano-105-golden-arrow-umwerfer-naben-set-fh-r105-hb-f105/2987174923-217-3473">
+<div class="aditem-image">
+
+<a href="/s-anzeige/shimano-105-golden-arrow-umwerfer-naben-set-fh-r105-hb-f105/2987174923-217-3473">
+<div class="imagebox srpimagebox">
+<img alt="Shimano 105 Golden Arrow Umwerfer Naben-Set FH-R105 HB-F105 Berlin - Pankow Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/0734add0-cdc9-426a-80ef-aac8d84ae188?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/0734add0-cdc9-426a-80ef-aac8d84ae188?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 13187 Pankow</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        26.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/shimano-105-golden-arrow-umwerfer-naben-set-fh-r105-hb-f105/2987174923-217-3473" name="2987174923">Shimano 105 Golden Arrow Umwerfer Naben-Set FH-R105 HB-F105</a>
+</h2>
+<p class="aditem-main--middle--description">Hallo,
+
+ich biete das o.g. Naben-Set samt Freilauf an. Braucht sicher ein Service: hinten dreht...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            35 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2987159860" data-href="/s-anzeige/shimano-105-golden-arrow-umwerfer-fd-a105-rennrad/2987159860-217-3473">
+<div class="aditem-image">
+
+<a href="/s-anzeige/shimano-105-golden-arrow-umwerfer-fd-a105-rennrad/2987159860-217-3473">
+<div class="imagebox srpimagebox">
+<img alt="Shimano 105 Golden Arrow Umwerfer FD-A105 Rennrad Berlin - Pankow Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eaf45385-c2cb-4074-9da9-e3db345c5544?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eaf45385-c2cb-4074-9da9-e3db345c5544?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    3</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 13187 Pankow</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        26.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/shimano-105-golden-arrow-umwerfer-fd-a105-rennrad/2987159860-217-3473" name="2987159860">Shimano 105 Golden Arrow Umwerfer FD-A105 Rennrad</a>
+</h2>
+<p class="aditem-main--middle--description">Hallo,
+
+ich biete den o.g. Umwerfer an, grob gereinigt.
+
+Haushalt ist tier- und rauchfrei!
+
+Versand...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            9 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2903134345" data-href="/s-anzeige/surly-midnight-special-rahmenset-rh-54-fools-gold/2903134345-217-3352">
+<div class="aditem-image">
+
+<a href="/s-anzeige/surly-midnight-special-rahmenset-rh-54-fools-gold/2903134345-217-3352">
+<div class="imagebox srpimagebox">
+<img alt="Surly Midnight Special Rahmenset, RH 54, Fools Gold Friedrichshain-Kreuzberg - Friedrichshain Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2a66e9ed-f538-4ff1-a0b2-35db9f39786e?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2a66e9ed-f538-4ff1-a0b2-35db9f39786e?rule=$_35.AUTO"/>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10245 Friedrichshain</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        23.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/surly-midnight-special-rahmenset-rh-54-fools-gold/2903134345-217-3352" name="2903134345">Surly Midnight Special Rahmenset, RH 54, Fools Gold</a>
+</h2>
+<p class="aditem-main--middle--description">Surly Midnight Special "Fools Gold"
+
+
+der Midnight Special Rahmen vereint nahezu alles,...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            799 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+<div class="text-module-oneline">
+<a class="j-action j-dont-follow-vip no-decoration" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2903134345" href="/pro/Radladen" title="Zum Shop Radladen.">
+<div class="badge-hint-pro-small-srp">PRO</div>
+</a>
+<a class="j-action j-dont-follow-vip" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2903134345" href="/pro/Radladen" title="Zum Shop Radladen.">
+<span>Radladen.</span>
+</a>
+</div>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2983130626" data-href="/s-anzeige/fahrrad-maedchen-in-weiss-gold/2983130626-217-3526">
+<div class="aditem-image">
+
+<a href="/s-anzeige/fahrrad-maedchen-in-weiss-gold/2983130626-217-3526">
+<div class="imagebox srpimagebox">
+<img alt="Fahrrad Mädchen in weiß/gold Berlin - Zehlendorf Vorschau" data-imgstyle="min-width: 100%;
+                                                    min-height: 164%;
+                                                    max-height: none; max-width: none;
+                                                    transform: translate(0%, 4%);" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/585d27c5-594e-4548-8052-b78198f0e0ce?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/585d27c5-594e-4548-8052-b78198f0e0ce?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    8</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 14167 Zehlendorf</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        22.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/fahrrad-maedchen-in-weiss-gold/2983130626-217-3526" name="2983130626">Fahrrad Mädchen in weiß/gold</a>
+</h2>
+<p class="aditem-main--middle--description">Fahrrad fährt sich gut. Am Sattel fehlt ein kleines Stück Schaumstoff (siehe Bild). Abholung in...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            200 € VB</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2983077448" data-href="/s-anzeige/schrauben-fuers-fahrrad-in-goldfarben/2983077448-217-3339">
+<div class="aditem-image">
+
+<a href="/s-anzeige/schrauben-fuers-fahrrad-in-goldfarben/2983077448-217-3339">
+<div class="imagebox srpimagebox">
+<img alt="Schrauben fürs Fahrrad in Goldfarben Berlin - Charlottenburg Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/829b9597-dd2e-4767-a8ee-889d652c7187?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/829b9597-dd2e-4767-a8ee-889d652c7187?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    6</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 14052 Charlottenburg</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        22.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<span class="ellipsis ref-not-linked" data-url="/s-anzeige/schrauben-fuers-fahrrad-in-goldfarben/2983077448-217-3339" name="2983077448">Schrauben fürs Fahrrad in Goldfarben</span>
+</h2>
+<p class="aditem-main--middle--description">Alle Schrauben unbenutzt!
+Versand gegen Aufpreis</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                             VB</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2980185460" data-href="/s-anzeige/kinderfahrrad-rascal-20-gold-20-zoll-/2980185460-217-3354">
+<div class="aditem-image">
+
+<a href="/s-anzeige/kinderfahrrad-rascal-20-gold-20-zoll-/2980185460-217-3354">
+<div class="imagebox srpimagebox">
+<img alt="Kinderfahrrad Rascal 20 Gold (20 Zoll) Friedrichshain-Kreuzberg - Friedrichshain Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87aad7f8-a782-4bcc-a55e-f151c0fc1d7a?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87aad7f8-a782-4bcc-a55e-f151c0fc1d7a?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10243 Friedrichshain</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        19.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/kinderfahrrad-rascal-20-gold-20-zoll-/2980185460-217-3354" name="2980185460">Kinderfahrrad Rascal 20 Gold (20 Zoll)</a>
+</h2>
+<p class="aditem-main--middle--description">Unsere Tochter ist leider aus ihrem geliebten goldenen Fahrrad herausgewachsen, deshalb verkaufen...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            450 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2978585943" data-href="/s-anzeige/bremsenset-goldfarben/2978585943-217-3366">
+<div class="aditem-image">
+
+<a href="/s-anzeige/bremsenset-goldfarben/2978585943-217-3366">
+<div class="imagebox srpimagebox">
+<img alt="Bremsenset goldfarben Berlin - Köpenick Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30a0e817-f1c2-4958-aa32-d30df0b65873?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30a0e817-f1c2-4958-aa32-d30df0b65873?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 12557 Köpenick</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        18.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/bremsenset-goldfarben/2978585943-217-3366" name="2978585943">Bremsenset goldfarben</a>
+</h2>
+<p class="aditem-main--middle--description">biete gezeigtes Set
+mechanische Scheibenbremsen MB-700
+Bremshebel Aest
+Bremszeughüllen
+
+wie...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            99 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2635489947" data-href="/s-anzeige/recon-alu-ultralight-kassette-gold-hg-10-fach-11-28-nur-110g-/2635489947-217-3352">
+<div class="aditem-image">
+
+<a href="/s-anzeige/recon-alu-ultralight-kassette-gold-hg-10-fach-11-28-nur-110g-/2635489947-217-3352">
+<div class="imagebox srpimagebox">
+<img alt="Recon Alu Ultralight Kassette Gold, HG 10 fach, 11-28, nur 110G! Friedrichshain-Kreuzberg - Friedrichshain Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a52db62-7b43-41f0-88dd-791c520f7018?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a52db62-7b43-41f0-88dd-791c520f7018?rule=$_35.AUTO"/>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10245 Friedrichshain</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        16.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/recon-alu-ultralight-kassette-gold-hg-10-fach-11-28-nur-110g-/2635489947-217-3352" name="2635489947">Recon Alu Ultralight Kassette Gold, HG 10 fach, 11-28, nur 110G!</a>
+</h2>
+<p class="aditem-main--middle--description">Recon Aluminium SL Ultralight Kassette
+
+
+Übersetzung 11-28T
+
+Gewicht: nur 110Gramm
+
+für Shimano HG...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            115 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+<div class="text-module-oneline">
+<a class="j-action j-dont-follow-vip no-decoration" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2635489947" href="/pro/Radladen" title="Zum Shop Radladen.">
+<div class="badge-hint-pro-small-srp">PRO</div>
+</a>
+<a class="j-action j-dont-follow-vip" data-gaevent="ResultsSearch,ResultsAdStoreClick,partner=pro;partneradid=2635489947" href="/pro/Radladen" title="Zum Shop Radladen.">
+<span>Radladen.</span>
+</a>
+</div>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2975920110" data-href="/s-anzeige/schwarz-goldenes-fixie-in-top-zustand/2975920110-217-3378">
+<div class="aditem-image">
+
+<a href="/s-anzeige/schwarz-goldenes-fixie-in-top-zustand/2975920110-217-3378">
+<div class="imagebox srpimagebox">
+<img alt="Schwarz-goldenes Fixie in top Zustand Friedrichshain-Kreuzberg - Kreuzberg Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5875095a-9fd4-46b0-a258-886e3562b5fe?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5875095a-9fd4-46b0-a258-886e3562b5fe?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    9</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10965 Kreuzberg</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        14.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/schwarz-goldenes-fixie-in-top-zustand/2975920110-217-3378" name="2975920110">Schwarz-goldenes Fixie in top Zustand</a>
+</h2>
+<p class="aditem-main--middle--description">Verkaufe ein stylisches schwarz-goldenes Fixie von PureFix. Hochwertiger Stahlrahmen. Top...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            290 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<div class="align-center liberty-hide-unfilled" data-liberty-position-name="srps-result-list-18"></div>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2974981349" data-href="/s-anzeige/wethepeople-profi-bmx-20-sehr-leicht-gruen-gold/2974981349-217-3436">
+<div class="aditem-image">
+
+<a href="/s-anzeige/wethepeople-profi-bmx-20-sehr-leicht-gruen-gold/2974981349-217-3436">
+<div class="imagebox srpimagebox">
+<img alt="Wethepeople profi BMX 20“ sehr leicht grün gold Berlin - Spandau Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/817c48b4-d863-4a81-8e0c-4eb95afbaddb?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/817c48b4-d863-4a81-8e0c-4eb95afbaddb?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 13587 Spandau</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        13.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/wethepeople-profi-bmx-20-sehr-leicht-gruen-gold/2974981349-217-3436" name="2974981349">Wethepeople profi BMX 20“ sehr leicht grün gold</a>
+</h2>
+<p class="aditem-main--middle--description">Verkaufe Wethepeople profi BMX 20“ sehr leicht Top Laufräder/Narben fährt sich sehr sehr gut...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            75 € VB</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2974809068" data-href="/s-anzeige/kcnc-lenker-vorbau-sattelstuetze-set-gold/2974809068-217-3472">
+<div class="aditem-image">
+
+<a href="/s-anzeige/kcnc-lenker-vorbau-sattelstuetze-set-gold/2974809068-217-3472">
+<div class="imagebox srpimagebox">
+<img alt="KCNC Lenker Vorbau Sattelstütze Set Gold Berlin - Pankow Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbfce67b-78e2-4307-bcd3-367585da55b2?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbfce67b-78e2-4307-bcd3-367585da55b2?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    5</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 13189 Pankow</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        13.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/kcnc-lenker-vorbau-sattelstuetze-set-gold/2974809068-217-3472" name="2974809068">KCNC Lenker Vorbau Sattelstütze Set Gold</a>
+</h2>
+<p class="aditem-main--middle--description">Verkaufe hier ein Set Von KCNC
+Lenker SC Bone 25,4 600mm 116g
+Sattelstütze Ti Pro LITE-8000 27,2...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            80 € VB</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2973952699" data-href="/s-anzeige/goldenes-nishiki-trim-ace-rennrad-rahmen-rh55-rh56-stahlrenner/2973952699-217-9677">
+<div class="aditem-image">
+
+<a href="/s-anzeige/goldenes-nishiki-trim-ace-rennrad-rahmen-rh55-rh56-stahlrenner/2973952699-217-9677">
+<div class="imagebox srpimagebox">
+<img alt="Goldenes Nishiki Trim Ace Rennrad Rahmen RH55 RH56 Stahlrenner Berlin - Mitte Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1e93075-bbe2-406e-9738-b386e4b0fd1c?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1e93075-bbe2-406e-9738-b386e4b0fd1c?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    14</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 13357 Mitte</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        12.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/goldenes-nishiki-trim-ace-rennrad-rahmen-rh55-rh56-stahlrenner/2973952699-217-9677" name="2973952699">Goldenes Nishiki Trim Ace Rennrad Rahmen RH55 RH56 Stahlrenner</a>
+</h2>
+<p class="aditem-main--middle--description">Projektaufgabe. Gemuffter Stahlrahmen Nishiki Trim Ace.
+Rahmenhöhe 55,5cm - für Körpergröße...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            100 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2973902067" data-href="/s-anzeige/rockshox-35-gold-rl-debon-air-federgabel-29-130mm-ebike-2-1-kg/2973902067-217-3397">
+<div class="aditem-image">
+
+<a href="/s-anzeige/rockshox-35-gold-rl-debon-air-federgabel-29-130mm-ebike-2-1-kg/2973902067-217-3397">
+<div class="imagebox srpimagebox">
+<img alt='RockShox 35 Gold RL Debon Air Federgabel 29" 130mm Ebike 2,1 kg Berlin - Neukölln Vorschau' fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5c95003-09dd-457a-8411-7974d6a6aa7d?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5c95003-09dd-457a-8411-7974d6a6aa7d?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    12</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 12045 Neukölln</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        12.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/rockshox-35-gold-rl-debon-air-federgabel-29-130mm-ebike-2-1-kg/2973902067-217-3397" name="2973902067">RockShox 35 Gold RL Debon Air Federgabel 29" 130mm Ebike 2,1 kg</a>
+</h2>
+<p class="aditem-main--middle--description">Verkaufe ein Federgabel RockShox 35 Gold RL Debon Air 29 " von mein neues Ebike, in Super...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            150 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2973376844" data-href="/s-anzeige/fahrradhelm-rennradhelm-van-rysel-gold-l-xl/2973376844-217-3351">
+<div class="aditem-image">
+
+<a href="/s-anzeige/fahrradhelm-rennradhelm-van-rysel-gold-l-xl/2973376844-217-3351">
+<div class="imagebox srpimagebox">
+<img alt="Fahrradhelm, Rennradhelm, Van Rysel, Gold, L/XL Friedrichshain-Kreuzberg - Friedrichshain Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88538c0b-128c-4918-b369-06fbbf2b5f2f?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88538c0b-128c-4918-b369-06fbbf2b5f2f?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10249 Friedrichshain</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        12.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/fahrradhelm-rennradhelm-van-rysel-gold-l-xl/2973376844-217-3351" name="2973376844">Fahrradhelm, Rennradhelm, Van Rysel, Gold, L/XL</a>
+</h2>
+<p class="aditem-main--middle--description">Habe den Helm nur ein paar Mal benutzt, sieht wirklich schön aus und hebt sich von den anderen...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            25 €</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2972015521" data-href="/s-anzeige/rockshox-federgabel-judy-gold-rl-26-schwarz-100mm-federweg/2972015521-217-9653">
+<div class="aditem-image">
+
+<a href="/s-anzeige/rockshox-federgabel-judy-gold-rl-26-schwarz-100mm-federweg/2972015521-217-9653">
+<div class="imagebox srpimagebox">
+<img alt='ROCKSHOX Federgabel "Judy Gold RL" 26" schwarz, 100mm Federweg Berlin - Reinickendorf Vorschau' fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1ec35fc-e398-43b7-8710-c22751080273?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1ec35fc-e398-43b7-8710-c22751080273?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    7</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 13505 Reinickendorf</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        10.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/rockshox-federgabel-judy-gold-rl-26-schwarz-100mm-federweg/2972015521-217-9653" name="2972015521">ROCKSHOX Federgabel "Judy Gold RL" 26" schwarz, 100mm Federweg</a>
+</h2>
+<p class="aditem-main--middle--description">Ich biete eine RockShox RL Gold Solo Air Federgabel mit 100 mm Federweg zum Verkauf an. Die...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            325 € VB<p class="aditem-main--middle--price-shipping--old-price">350 €</p>
+</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2971443215" data-href="/s-anzeige/goldjunge-bonanza-fahrrad-selten-und-stylisch/2971443215-217-3400">
+<div class="aditem-image">
+
+<a href="/s-anzeige/goldjunge-bonanza-fahrrad-selten-und-stylisch/2971443215-217-3400">
+<div class="imagebox srpimagebox">
+<img alt="Goldjunge Bonanza fahrrad selten und stylisch Berlin - Neukölln Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe5f66e-2aa0-4f3e-96e3-069d2352af84?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe5f66e-2aa0-4f3e-96e3-069d2352af84?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    4</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 10999 Neukölln</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        10.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<span class="ellipsis ref-not-linked" data-url="/s-anzeige/goldjunge-bonanza-fahrrad-selten-und-stylisch/2971443215-217-3400" name="2971443215">Goldjunge Bonanza fahrrad selten und stylisch</span>
+</h2>
+<p class="aditem-main--middle--description">20zoll
+super in Schuss</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            300 € VB</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+</p>
+</div>
+</div>
+</article>
+</li>
+<li class="ad-listitem">
+<article class="aditem" data-adid="2971346977" data-href="/s-anzeige/scooter-big-wheel-style-230-schwarz-weiss-gold-mit-ovp-bis-120kg/2971346977-217-3410">
+<div class="aditem-image">
+
+<a href="/s-anzeige/scooter-big-wheel-style-230-schwarz-weiss-gold-mit-ovp-bis-120kg/2971346977-217-3410">
+<div class="imagebox srpimagebox">
+<img alt="Scooter Big Wheel Style 230, schwarz/weiß/gold mit OVP bis 120kg Berlin - Tempelhof Vorschau" fetchpriority="low" loading="lazy" src="https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82351b67-2490-4adf-bc29-ceba3af3ad57?rule=$_2.AUTO" srcset="https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82351b67-2490-4adf-bc29-ceba3af3ad57?rule=$_35.AUTO"/>
+<div class="galleryimage--counter">
+                                                    5</div>
+</div>
+</a>
+</div>
+<div class="aditem-main">
+<div class="aditem-main--top">
+<div class="aditem-main--top--left">
+<i class="icon icon-small icon-pin-gray"></i> 12305 Tempelhof</div>
+<div class="aditem-main--top--right">
+<i class="icon icon-small icon-calendar-open"></i>
+                                        09.01.2025</div>
+</div>
+<div class="aditem-main--middle">
+<h2 class="text-module-begin">
+<a class="ellipsis" href="/s-anzeige/scooter-big-wheel-style-230-schwarz-weiss-gold-mit-ovp-bis-120kg/2971346977-217-3410" name="2971346977">Scooter Big Wheel Style 230, schwarz/weiß/gold mit OVP bis 120kg</a>
+</h2>
+<p class="aditem-main--middle--description">Der Roller befindet sich in einem sehr guten Zustand und wurde insgesamt 2 mal gefahren und stand...</p>
+<div class="aditem-main--middle--price-shipping">
+<p class="aditem-main--middle--price-shipping--price">
+                                            98 € VB</p>
+</div>
+</div>
+<div class="aditem-main--bottom">
+<p class="text-module-end">
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-send-money"></i>
+                                            Direkt kaufen</span>
+<span class="simpletag tag-with-icon">
+<i class="icon icon-smallest icon-package"></i>
+                                            Versand möglich</span>
+</p>
+</div>
+</div>
+</article>
+</li>
+</ul>
+
+</div>
+</div>
+<div class="l-container-row contentbox-unpadded no-bg">
+<div class="a-padded l-container align-center srchresult-suggested-container" id="srchrslt-shngls">
+<p class="srchresult-suggested-title"> Ähnliche Suchanfragen</p>
+<ul class="linklist">
+<li>
+<a href="/s-berlin/schmuck/k0l3331">schmuck</a>
+</li>
+<li>
+<a href="/s-berlin/gold-585/k0l3331">gold 585</a>
+</li>
+<li>
+<a href="/s-berlin/goldbarren/k0l3331">goldbarren</a>
+</li>
+<li>
+<a href="/s-berlin/spiegel/k0l3331">spiegel</a>
+</li>
+<li>
+<a href="/s-berlin/goldm%C3%BCnze/k0l3331">goldmünze</a>
+</li>
+<li>
+<a href="/s-berlin/goldkette/k0l3331">goldkette</a>
+</li>
+<li>
+<a href="/s-berlin/gold-schmuck/k0l3331">gold schmuck</a>
+</li>
+<li>
+<a href="/s-berlin/gold-333/k0l3331">gold 333</a>
+</li>
+<li>
+<a href="/s-berlin/gold-750/k0l3331">gold 750</a>
+</li>
+<li>
+<a href="/s-berlin/rolex/k0l3331">rolex</a>
+</li>
+<li>
+<a href="/s-berlin/silber/k0l3331">silber</a>
+</li>
+<li style="display:none">
+<a href="/s-berlin/spiegel-gold/k0l3331">spiegel gold</a>
+</li>
+<li style="display:none">
+<a href="/s-berlin/kronleuchter/k0l3331">kronleuchter</a>
+</li>
+<li style="display:none">
+<a href="/s-berlin/lampe/k0l3331">lampe</a>
+</li>
+<li style="display:none">
+<a href="/s-berlin/goldring/k0l3331">goldring</a>
+</li>
+<li><a href="#" id="srchrslt-shngls-more">mehr ...</a></li>
+</ul>
+</div>
+<div class="a-padded l-container" id="srchrslt-pagination">
+<div class="pagination">
+<div class="pagination-pages">
+<span class="pagination-current">1</span>
+<a class="pagination-page" href="/s-fahrraeder/berlin/seite:2/gold/k0c217l3331" title="gold in Berlin Fahrräder &amp; Zubehör Seite 2 | kleinanzeigen.de">2</a>
+<a class="pagination-page" href="/s-fahrraeder/berlin/seite:3/gold/k0c217l3331" title="gold in Berlin Fahrräder &amp; Zubehör Seite 3 | kleinanzeigen.de">3</a>
+</div>
+<div class="pagination-nav">
+<a class="pagination-next" href="/s-fahrraeder/berlin/seite:2/gold/k0c217l3331" title="Nächste"></a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal-dialog mfp-popup-medium mfp-hide" id="sorting-info-wrapper">
+<header>
+<h2>Sortierung der Suchergebnisse</h2>
+</header>
+<div class="modal-dialog-content">
+<p>
+                Die Reihenfolge der Suchergebnisse richtet sich ausschließlich nach den Parametern Datum der Anzeige, Preis und Entfernung.
+            </p>
+<p>
+                In der Standard-Sortierung, ohne Eingabe eines Ortes, werden neueste Anzeigen (alternativ änderbar auf "Günstigste zuerst") oben gezeigt. Diese werden mit Eingabe eines Ortes auf den Ort bzw. den Radius eingegrenzt. Falls ein Ort sowie ein Radius ausgewählt wurde, ist auch die Sortierung nach Geringste Entfernung zuerst möglich.
+            </p>
+<p>
+                Ganz oben oberhalb der Suchergebnisse werden als solche gekennzeichnete Werbeanzeigen eingeblendet, die zu der Suche passen.
+            </p>
+</div>
+</div>
+</main>
+<div class="flex-right" id="btf-billboard">
+<div class="" data-liberty-position-name="srps-btf-billboard"></div>
+</div>
+</div>
+<footer class="l-page-wrapper align-center" id="site-footer">
+<nav aria-label="Footer-Navigation" id="site-footer-nav">
+<ul class="flexlist is-top-aligned l-container-row">
+<li class="flexlist--column l-col">
+<ul class="list">
+<li class="flexlist--header">Kleinanzeigen</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,AboutUs" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/ueber-uns/">
+                            Über uns</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Careers" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/careers/">
+                            Karriere</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Press" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/medien">
+                            Presse</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Magazine" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/magazin/">
+                            Kleinanzeigen Magazin</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Engagement" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/engagement/">
+                            Engagement</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,MobileApps" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/mobile-apps/">
+                            Mobile Apps</a>
+</li>
+</ul>
+<li>
+<li class="flexlist--column l-col">
+<ul class="list">
+<li class="flexlist--header">Informationen</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Help" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/hilfe/">
+                            Hilfe</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Security" href="https://themen.kleinanzeigen.de/sicherheitshinweise/">
+                            Tipps für deine Sicherheit</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,YouthProtection" href="https://themen.kleinanzeigen.de/kinder-und-jugendschutz/">
+                            Kinder- und Jugendschutz</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,PrivacyPolicy" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/datenschutzerklaerung/">
+                            Datenschutzerklärung</a>
+</li>
+<li>
+<a class="text-link-subdued" href="/gdpr">
+                            Datenschutzeinstellungen
+                        </a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Terms" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/nutzungsbedingungen/">
+                            Nutzungsbedingungen</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Imprint" href="/impressum.html">
+                            Impressum</a>
+</li>
+</ul>
+<li>
+<li class="flexlist--column l-col">
+<ul class="list">
+<li class="flexlist--header">Für Unternehmen</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,RealEstate" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/immobilienprofis/">
+                            Kleinanzeigen Immobilien</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,ProInformation" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/mit-pro-umsatz-steigern/">
+                            PRO für Unternehmen</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Advertising" data-gaevent-direct="true" href="https://kleinanzeigen.de/advertising">
+                            Werben auf Kleinanzeigen</a>
+</li>
+</ul>
+<li>
+<li class="flexlist--column l-col">
+<ul class="list">
+<li class="flexlist--header">Social Media</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Facebook" data-gaevent-direct="true" href="https://www.facebook.com/Kleinanzeigen/" rel="noopener" target="_blank">
+                            Facebook</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,YouTube" data-gaevent-direct="true" href="https://www.youtube.com/@KleinanzeigenWG" rel="noopener" target="_blank">
+                            YouTube</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Instagram" data-gaevent-direct="true" href="https://www.instagram.com/kleinanzeigen_official/" rel="noopener" target="_blank">
+                            Instagram</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Twitter" data-gaevent-direct="true" href="https://www.threads.net/@kleinanzeigen_official?hl=de" rel="noopener" target="_blank">
+                            Threads</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,Pinterest" data-gaevent-direct="true" href="https://www.pinterest.de/kleinanzeigen/" rel="noopener" target="_blank">
+                            Pinterest</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,tiktok" data-gaevent-direct="true" href="https://www.tiktok.com/@kleinanzeigen" rel="noopener" target="_blank">
+                            TikTok</a>
+</li>
+</ul>
+<li>
+<li class="flexlist--column l-col">
+<ul class="list">
+<li class="flexlist--header">Allgemein</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,PopularCategories" href="/s-beliebte-suchen.html?catId=217">
+                                            Beliebte Suchen für Fahrräder &amp; Zubehör</a></li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,BrowseLocations" href="/s-katalog-orte.html">
+                                    Anzeigen Übersicht</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,LandingPageStoresOverview" href="/s-unternehmensseiten-verzeichnis.html">
+                            Übersicht der Unternehmensseiten</a>
+</li>
+<li>
+<a class="text-link-subdued" data-gaevent="ResultsSearch,FooterClick,CarRating" data-gaevent-direct="true" href="https://themen.kleinanzeigen.de/autobewertung">
+                            Autobewertung</a>
+</li>
+</ul>
+<li>
+</li></li></li></li></li></li></li></li></li></li></ul>
+</nav>
+<p>
+<small>
+            Copyright © 2005-2025 Marktplaats B.V. Alle Rechte vorbehalten. Ausgewiesene Marken gehören ihren jeweiligen Eigentümern.<br>
+            Die Kleinanzeigen-Dienste werden betrieben von der kleinanzeigen.de GmbH.</br></small>
+</p>
+<div class="tabnav-tiny tinytabs" id="site-footer-tbs">
+<ul>
+<li class="first-tab" data-panel="site-footer-tbs-popsrch"><a class="text-link-subdued" id="site-footer-tablink-popsearch">Beliebte
+                        Suchen</a></li>
+<li data-panel="site-footer-tbs-brwseloc"><a class="text-link-subdued" id="site-footer-tablink-browseloc">Weitere Kategorien</a>
+</li>
+<li data-panel="site-footer-tbs-partner"><a class="text-link-subdued" id="site-footer-tablink-partner">Partner</a></li>
+</ul>
+<div class="tinytabs-panel" id="site-footer-tbs-popsrch" style="display: block;">
+<ul class="linklist-tiny">
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/fahrrad/k0c217l3331">Fahrrad Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/rennrad/k0c217l3331">Rennrad Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/e-bike/k0c217l3331">E Bike Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/cube/k0c217l3331">Cube Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/gravelbike/k0c217l3331">Gravelbike Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/lastenrad/k0c217l3331">Lastenrad Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/gravel/k0c217l3331">Gravel Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/damenfahrrad/k0c217l3331">Damenfahrrad Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/klapprad/k0c217l3331">Klapprad Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/canyon/k0c217l3331">Canyon Berlin</a></li>
+</ul>
+<ul class="linklist-tiny" id="site-footer-extdynlinks">
+<li>
+<a class="text-link-subdued" href="https://themen.kleinanzeigen.de/fahrrad-verkaufen/">Fahrrad verkaufen</a>
+</li>
+</ul>
+</div>
+<div class="tinytabs-panel is-hidden" id="site-footer-tbs-brwseloc">
+<ul class="linklist-tiny">
+<li><a class="text-link-subdued" href="/s-fahrraeder/damen/berlin/c217l3331+fahrraeder.art_s:damen">Damen in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/herren/berlin/c217l3331+fahrraeder.art_s:herren">Herren in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/kinder/berlin/c217l3331+fahrraeder.art_s:kinder">Kinder in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/zubehoer/berlin/c217l3331+fahrraeder.art_s:zubehoer">Zubehör in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/weiteres/berlin/c217l3331+fahrraeder.art_s:weiteres">Weitere Fahrräder &amp; Zubehör in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-autos/berlin/c216l3331">Autos in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-autoteile-reifen/berlin/c223l3331">Autoteile &amp; Reifen in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-boote-bootszubehoer/berlin/c211l3331">Boote &amp; Bootszubehör in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-fahrraeder/berlin/c217l3331">Fahrräder &amp; Zubehör in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-motorraeder-roller/berlin/c305l3331">Motorräder &amp; Motorroller in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-motorraeder-roller-teile/berlin/c306l3331">Motorradteile &amp; Zubehör in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-anhaenger-nutzfahrzeuge/berlin/c276l3331">Nutzfahrzeuge &amp; Anhänger in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-reparaturen-dienstleistungen/berlin/c280l3331">Reparaturen &amp; Dienstleistungen in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-wohnwagen-mobile/berlin/c220l3331">Wohnwagen &amp; -mobile in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-auto-rad-boot/sonstiges/berlin/c241l3331">Weiteres Auto, Rad &amp; Boot in Berlin</a></li>
+<li><a class="text-link-subdued" href="/s-katalog-orte.html?locationId=3331">Anzeigen in Berlin</a></li>
+</ul>
+</div>
+<div class="tinytabs-panel is-hidden" id="site-footer-tbs-partner">
+<ul class="linklist-tiny">
+<li><a class="text-link-subdued" href="http://www.mobile.de" rel="noopener" target="_blank">mobile.de</a></li>
+<li><a class="text-link-subdued" href="https://www.adevinta.com/brands" rel="noopener" target="_blank">Adevinta</a></li>
+</ul>
+</div>
+</div>
+</footer>
+</div>
+<div class="site-base--right-banner">
+<div class="site-base--right-banner--full">
+<div class="sticky-advertisement" id="banner-skyscraper">
+<div class="l-container" data-liberty-position-name="srps-sky-atf-right"></div>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- Polyfill -->
+
+<div id="consentBanner"></div>
+
+<!-- LibertyWrapper depends on the gdpr banner. Therefore, it should be ready after dom loaded.-->
+
+
+
+</body>
+</html>
